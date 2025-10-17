@@ -1,5 +1,5 @@
 # My First Repo
-Welcome to my first GitHub repository! 🎉
+Welcome to my first GitHub repository! 
 
 ## About Me
 Hi! I'm Zainab, learning cybersecurity and coding.  
